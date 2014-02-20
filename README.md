@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [pazguille/aload](http://github.com/pazguille/aload). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/pazguille-aload`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # aload.js [![Build Status](https://secure.travis-ci.org/pazguille/aload.png)](http://travis-ci.org/pazguille/aload) [![devDependency Status](https://david-dm.org/pazguille/aload/dev-status.png)](https://david-dm.org/pazguille/aload#info=devDependencies)
 
 > Loads images, scripts, styles, iframes, videos and audios asynchronously.
